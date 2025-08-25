@@ -2,7 +2,7 @@
 
 💡 **Aspiring Cloud & Cybersecurity Engineer**  
 📍 Missouri, USA  
-📚 Currently learning: **Excel • Python • SQL • Git/GitHub • Azure • Django**  
+📚  **Excel • Python • SQL • Git/GitHub • Azure • Django**  
 🚀 Focused on building projects that solve real-world problems and documenting my journey.  
 
 ---
@@ -12,7 +12,7 @@
 - **Python** → Scripting & automation  
 - **SQL** → Querying and managing databases  
 - **Git & GitHub** → Version control and collaboration  
-- **Azure** → Cloud fundamentals and DevOps basics  
+- **Azure** → Cloud fundamentals and  basics  
 - **Django** → Web application development  
 
 ---
