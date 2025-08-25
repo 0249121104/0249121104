@@ -40,3 +40,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 
 ---
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=emmanueledo)  
+![snake gif](https://github.com/emmanueledo/emmanueledo/blob/output/github-contribution-grid-snake.gif)
