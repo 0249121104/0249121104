@@ -36,7 +36,8 @@
 ---
 
 ## 🤝 Connect With Me  
-[![LinkedIn]https://www.linkedin.com/in/emmanuel-edo-a41a20111/  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-edo)
+  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 
 ---
