@@ -41,4 +41,4 @@
 
 ---
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=emmanueledo)  
-![snake gif](https://github.com/emmanueledo/emmanueledo/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/0249121104/0249121104)/blob/output/github-contribution-grid-snake.gif)
