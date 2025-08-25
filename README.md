@@ -31,11 +31,7 @@
 
 ---
 
-## 📈 Learning Roadmap  
-- **Month 1** → Excel & Python foundations  
-- **Month 2** → SQL & Git/GitHub workflow  
-- **Month 3** → Azure fundamentals + DevOps practice  
-- **Month 4** → Cybersecurity projects & case studies  
+
 
 ---
 
