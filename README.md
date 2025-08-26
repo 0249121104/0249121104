@@ -17,9 +17,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanueledo&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueledo&layout=compact&theme=default)  
+
 
 ---
 
